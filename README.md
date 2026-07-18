@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%94%B2+ASIC+Backend+%7C+RTL-to-GDSII+Flow;%E2%9A%99%EF%B8%8F+Cadence+Genus+%7C+Innovus+%7C+Xcelium;%F0%9F%8C%90+TSMC+180nm+%7C+RISC-V+SoC+Physical+Design;%F0%9F%9B%B0%EF%B8%8F+Top+37+%2F+550%2B+%E2%80%94+1-ToPS+Semiconductor+Program" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%94%B2+ASIC+Backend+%7C+RTL-to-GDSII+Flow;%E2%9A%99%EF%B8%8F+Cadence+Genus+%7C+Innovus+%7C+Xcelium;%F0%9F%8C%90+TSMC+180nm+%26+45nm+%7C+RISC-V+SoC+Physical+Design;%F0%9F%9B%B0%EF%B8%8F+Top+37+%2F+550%2B+%E2%80%94+1-ToPS+Semiconductor+Program" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ Institute       : SGSITS Indore (RGPV) | Expected June 2028
 Location        : Indore, Madhya Pradesh, India
 Specialization  : ASIC Physical Design | RTL-to-GDSII Backend | VLSI
 EDA Tools       : Cadence Genus | Cadence Innovus | Cadence Xcelium
-Process Node    : TSMC 180nm Digital
+Process Nodes   : TSMC 180nm Digital | 45nm Digital
 Current Project : RISC-V SoC Physical Design — 1-ToPS Program (VSI)
 Selection       : Top 37 of 550+ nationally | Government-backed initiative
 CGPA            : 8.30 (avg. of 7.67, 8.14, 8.43, 8.95)
@@ -145,6 +145,7 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 | **Routing & Sign-Off** | Signal Routing · STA · DRC · LVS · Timing Closure · GDSII |
 | **Simulation** | Cadence Xcelium · Functional Verification · Verilog / VHDL |
 | **Scripting** | TCL (full flow automation) · Python · C / C++ |
+| **Process Nodes** | TSMC 180nm Digital · 45nm Digital |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -165,6 +166,13 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 <img src="https://img.shields.io/badge/Cadence%20Genus-Synthesis-0a0f2e?style=for-the-badge&color=0ea5e9&labelColor=0a0f2e"/>
 <img src="https://img.shields.io/badge/Cadence%20Innovus-Place%20%26%20Route-0a0f2e?style=for-the-badge&color=38bdf8&labelColor=0a0f2e"/>
 <img src="https://img.shields.io/badge/Cadence%20Xcelium-Simulation-0a0f2e?style=for-the-badge&color=7dd3fc&labelColor=0a0f2e"/>
+
+<br/><br/>
+
+### Process Technology
+
+<img src="https://img.shields.io/badge/TSMC-180nm-0a0f2e?style=for-the-badge&color=0ea5e9&labelColor=0a0f2e"/>
+<img src="https://img.shields.io/badge/Node-45nm-0a0f2e?style=for-the-badge&color=38bdf8&labelColor=0a0f2e"/>
 
 <br/><br/>
 
@@ -228,6 +236,6 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0d1f4a,100:020818&height=140&section=footer&text=Chips%20begin%20with%20a%20single%20gate.&fontSize=22&fontColor=38bdf8&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<sub>⚡ RTL-to-GDSII · Cadence Genus · Innovus · Xcelium · TSMC 180nm · TCL Automation · RISC-V SoC</sub>
+<sub>⚡ RTL-to-GDSII · Cadence Genus · Innovus · Xcelium · TSMC 180nm & 45nm · TCL Automation · RISC-V SoC</sub>
 
 </div>
