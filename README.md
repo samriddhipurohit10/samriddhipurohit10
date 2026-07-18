@@ -17,7 +17,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/VSI%201--ToPS-Top%2037%20%2F%20550%2B-0ea5e9?style=for-the-badge&labelColor=0a0f2e" alt="1-ToPS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/SGPA-8.43-38bdf8?style=for-the-badge&labelColor=0a0f2e" alt="SGPA"/>
+<img src="https://img.shields.io/badge/CGPA-8.30-38bdf8?style=for-the-badge&labelColor=0a0f2e" alt="CGPA"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Latest%20SGPA-8.95-22c55e?style=for-the-badge&labelColor=0a0f2e" alt="Latest SGPA"/>
 
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -36,6 +38,8 @@ EDA Tools       : Cadence Genus | Cadence Innovus | Cadence Xcelium
 Process Node    : TSMC 180nm Digital
 Current Project : RISC-V SoC Physical Design — 1-ToPS Program (VSI)
 Selection       : Top 37 of 550+ nationally | Government-backed initiative
+CGPA            : 8.30 (avg. of 7.67, 8.14, 8.43, 8.95)
+Latest SGPA     : 8.95 (Semester 4)
 Contact         : samriddhipurohit10@gmail.com
 ```
 
@@ -167,7 +171,7 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 | 🏆 | Recognition |
 |:---:|---|
 | 🛰️ | **1-ToPS Semiconductor Program — Top 37 / 550+ Teams** · VSI · Government-backed VLSI initiative · 2024–25 |
-| 📈 | **Consistent GPA Growth** · 7.67 → 8.14 → 8.43 across three consecutive semesters at SGSITS Indore |
+| 📈 | **Consistent GPA Growth** · 7.67 → 8.14 → 8.43 → 8.95 across four consecutive semesters at SGSITS Indore · CGPA: 8.30 |
 | 🥈 | **Academic Rank 2** · CBSE Class X Board · 96.60% · 2022 |
 | 📜 | **Cadence Semiconductor 101 v3.0** · Certified |
 
