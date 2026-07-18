@@ -45,6 +45,27 @@ Contact         : samriddhipurohit10@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## Experience
+
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <h3>🏭 VLSIMINDS — Physical Design Intern (Cadence Innovus)</h3>
+      <p><em>June 2026 – July 2026 (1 Month) · Remote/On-site VLSI Training Internship</em></p>
+      <ul>
+        <li>Completed a 1-month hands-on physical design internship at VLSIMINDS, executing the full RTL-to-GDSII back-end flow in <strong>Cadence Innovus 23.16</strong> on the <strong>CHIPTOP multi-core SoC</strong> under mentor guidance.</li>
+        <li>Carried the design through floorplanning, macro and port placement, power planning, standard-cell placement, clock tree synthesis (CTS), and signal routing to a hold-clean, DRC-clean layout.</li>
+        <li>Gained practical exposure to netlist/LEF integrity checks (<code>checkDesign</code>), fanout and transition analysis, and post-CTS / post-route hold timing sign-off using Innovus timing reports.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Tool-Cadence%20Innovus%2023.16-0ea5e9?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## Current Projects
 
 <table>
@@ -59,6 +80,17 @@ Contact         : samriddhipurohit10@gmail.com
       <img src="https://img.shields.io/badge/Node-TSMC%20180nm-38bdf8?style=flat-square"/>
     </td>
     <td valign="top" width="50%">
+      <h3>🧩 CHIPTOP Multi-Core SoC — VLSIMINDS Internship Project</h3>
+      <p>
+        Full RTL-to-GDSII physical design of a 4-core <strong>chip_top</strong> SoC (with embedded 32×32 multiplier units) in Cadence Innovus 23.16 — <strong>16,116 standard cells, 16,810 nets, 22,104 leaf cells</strong> including 16 embedded MEM1_256X32 memory macros across the 4 sub-cores. Carried through floorplan, macro/port placement, power planning, placement, CTS, and routing. Post-CTS and post-route reg2reg <strong>hold sign-off closed at ~0 ps worst slack</strong> across the 100 most-critical paths; pre-CTS fanout check flagged 9 violations (8 real, 1 clock-net) later resolved through CTS balancing, with 0 max-transition violations. Also ran <code>checkDesign</code> netlist/LEF integrity checks, catching 2 cells with missing PG pins and a macro obstruction gap for library clean-up.
+      </p>
+      <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Hold-Signed_Off-7dd3fc?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <h3>⚡ 32-Bit Single-Cycle Processor</h3>
       <p>
         Complete ASIC backend flow on a team-developed 32-bit processor — <strong>4,855 combinational + 1,028 sequential cells</strong>, 60% core utilization on 820×820 µm core, 10 ns clock met with +5 ps slack at slow corner. Zero DRC/timing violations. Authored full TCL automation for synthesis and CTS.
@@ -67,8 +99,6 @@ Contact         : samriddhipurohit10@gmail.com
       &nbsp;
       <img src="https://img.shields.io/badge/Timing-Closed-7dd3fc?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
       <h3>📡 Full Duplex UART</h3>
       <p>
@@ -78,6 +108,8 @@ Contact         : samriddhipurohit10@gmail.com
       &nbsp;
       <img src="https://img.shields.io/badge/DRC-Clean-38bdf8?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <h3>🔬 4-Bit Synchronous Counter</h3>
       <p>
@@ -87,6 +119,7 @@ Contact         : samriddhipurohit10@gmail.com
       &nbsp;
       <img src="https://img.shields.io/badge/TCL_Automation-Yes-7dd3fc?style=flat-square"/>
     </td>
+    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
