@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%94%B2+ASIC+Backend+%7C+RTL-to-GDSII+Flow;%E2%9A%99%EF%B8%8F+Cadence+Genus+%7C+Innovus+%7C+Xcelium;%F0%9F%8C%90+TSMC+180nm+%26+45nm+%7C+RISC-V+SoC+Physical+Design;%F0%9F%9B%B0%EF%B8%8F+Top+37+%2F+550%2B+%E2%80%94+1-ToPS+Semiconductor+Program" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%94%B2+ASIC+Backend+%7C+RTL-to-GDSII+Flow;%E2%9A%99%EF%B8%8F+Cadence+Genus+%7C+Innovus+%7C+Xcelium;%F0%9F%8C%90+TSMC+180nm+%7C+RISC-V+SoC+Physical+Design;%F0%9F%9B%B0%EF%B8%8F+Top+37+%2F+550%2B+%E2%80%94+1-ToPS+Semiconductor+Program" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ Institute       : SGSITS Indore (RGPV) | Expected June 2028
 Location        : Indore, Madhya Pradesh, India
 Specialization  : ASIC Physical Design | RTL-to-GDSII Backend | VLSI
 EDA Tools       : Cadence Genus | Cadence Innovus | Cadence Xcelium
-Process Nodes   : TSMC 180nm Digital | 45nm Digital
+Process Node    : TSMC 180nm Digital
 Current Project : RISC-V SoC Physical Design — 1-ToPS Program (VSI)
 Selection       : Top 37 of 550+ nationally | Government-backed initiative
 CGPA            : 8.30 (avg. of 7.67, 8.14, 8.43, 8.95)
@@ -119,7 +119,17 @@ Contact         : samriddhipurohit10@gmail.com
       &nbsp;
       <img src="https://img.shields.io/badge/TCL_Automation-Yes-7dd3fc?style=flat-square"/>
     </td>
-    <td valign="top" width="50%"></td>
+    <td valign="top" width="50%">
+      <h3>💾 SRAM — Memory Design &amp; DFT Physical Implementation</h3>
+      <p>
+        <em>VLSIMINDS Internship, 2026</em> — Designed and physically implemented a 16-word × 16-bit synchronous register-file/SRAM-style block with full scan-based DFT on <strong>GPDK045 (45nm)</strong> — <strong>783 standard-cell instances across 16 LVT/HVT cell types, 809 nets, 44 top-level pins</strong>. Closed timing at a 3.5 ns target clock with 0.4 ns setup/hold uncertainty margins, verified across ss_cnom/fast_cnom MMMC corners. Inserted and physically routed a full-chip scan chain (scan_in → scan_out) with 100% legal pin assignment (44/44). Carried through port placement, physical-cell placement, CTS, and detail routing to a signed-off, tapeout-ready <code>final.gds</code>. Debugged and balanced the clock tree interactively via Innovus's Clock Tree Debugger, achieving clean post-route reg2reg hold timing at ~0 ps worst slack across all sampled paths.
+      </p>
+      <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Node-GPDK045%2045nm-38bdf8?style=flat-square"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/DFT-Scan_Chain-7dd3fc?style=flat-square"/>
+    </td>
   </tr>
 </table>
 
@@ -145,7 +155,6 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 | **Routing & Sign-Off** | Signal Routing · STA · DRC · LVS · Timing Closure · GDSII |
 | **Simulation** | Cadence Xcelium · Functional Verification · Verilog / VHDL |
 | **Scripting** | TCL (full flow automation) · Python · C / C++ |
-| **Process Nodes** | TSMC 180nm Digital · 45nm Digital |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -166,13 +175,6 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 <img src="https://img.shields.io/badge/Cadence%20Genus-Synthesis-0a0f2e?style=for-the-badge&color=0ea5e9&labelColor=0a0f2e"/>
 <img src="https://img.shields.io/badge/Cadence%20Innovus-Place%20%26%20Route-0a0f2e?style=for-the-badge&color=38bdf8&labelColor=0a0f2e"/>
 <img src="https://img.shields.io/badge/Cadence%20Xcelium-Simulation-0a0f2e?style=for-the-badge&color=7dd3fc&labelColor=0a0f2e"/>
-
-<br/><br/>
-
-### Process Technology
-
-<img src="https://img.shields.io/badge/TSMC-180nm-0a0f2e?style=for-the-badge&color=0ea5e9&labelColor=0a0f2e"/>
-<img src="https://img.shields.io/badge/Node-45nm-0a0f2e?style=for-the-badge&color=38bdf8&labelColor=0a0f2e"/>
 
 <br/><br/>
 
@@ -236,6 +238,6 @@ Sign-Off  ◄──  DRC/LVS  ◄──  Routing  ◄──  CTS  ◄───�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0d1f4a,100:020818&height=140&section=footer&text=Chips%20begin%20with%20a%20single%20gate.&fontSize=22&fontColor=38bdf8&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<sub>⚡ RTL-to-GDSII · Cadence Genus · Innovus · Xcelium · TSMC 180nm & 45nm · TCL Automation · RISC-V SoC</sub>
+<sub>⚡ RTL-to-GDSII · Cadence Genus · Innovus · Xcelium · TSMC 180nm · TCL Automation · RISC-V SoC</sub>
 
 </div>
